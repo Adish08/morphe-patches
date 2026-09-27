@@ -1,4 +1,4 @@
-package app.paresh.patches.shared
+package app.adish.patches.shared
 
 import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.AppTarget

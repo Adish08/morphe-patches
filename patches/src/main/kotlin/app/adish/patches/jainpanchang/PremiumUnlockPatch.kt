@@ -1,11 +1,11 @@
-package app.paresh.patches.jainpanchang
+package app.adish.patches.jainpanchang
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstruction
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.extensions.InstructionExtensions.getInstruction
 import app.morphe.patcher.extensions.InstructionExtensions.instructions
 import app.morphe.patcher.patch.bytecodePatch
-import app.paresh.patches.shared.Constants.COMPATIBILITY_JAINPANCHANG
+import app.adish.patches.shared.Constants.COMPATIBILITY_JAINPANCHANG
 import com.android.tools.smali.dexlib2.Opcode
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction

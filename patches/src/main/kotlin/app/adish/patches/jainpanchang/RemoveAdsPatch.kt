@@ -1,8 +1,8 @@
-package app.paresh.patches.jainpanchang
+package app.adish.patches.jainpanchang
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
-import app.paresh.patches.shared.Constants.COMPATIBILITY_JAINPANCHANG
+import app.adish.patches.shared.Constants.COMPATIBILITY_JAINPANCHANG
 
 @Suppress("unused")
 val removeAdsPatch = bytecodePatch(

@@ -1,13 +1,13 @@
-group = "app.paresh.patches"
+group = "app.adish.patches"
 
 patches {
     about {
-        name = "Paresh Patches"
-        description = "Jain Panchang premium unlock and ad removal patches"
-        source = "https://github.com/Adish08/morphe-patches"
-        author = "Paresh"
-        contact = "na"
-        website = "na"
+        name = "Adish Patches"
+        description = "Morphe patches for Android apps (Jain Panchang and more)"
+        source = "https://github.com/adish08/morphe-patches"
+        author = "Adish"
+        contact = "https://github.com/adish08/morphe-patches/issues"
+        website = "https://github.com/adish08/morphe-patches"
         license = "GPLv3"
     }
 }

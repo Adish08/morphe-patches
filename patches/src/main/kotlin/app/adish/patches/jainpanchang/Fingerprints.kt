@@ -1,4 +1,4 @@
-package app.paresh.patches.jainpanchang
+package app.adish.patches.jainpanchang
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.string
