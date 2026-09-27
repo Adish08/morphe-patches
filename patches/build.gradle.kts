@@ -2,7 +2,7 @@ group = "app.adish.patches"
 
 patches {
     about {
-        name = "Adish Patches"
+        name = "Morphe Patches"
         description = "Morphe patches for Android apps (Jain Panchang and more)"
         source = "https://github.com/adish08/morphe-patches"
         author = "Adish"
