@@ -22,17 +22,22 @@ Compatibility: `com.jaindarshan.panchangtithi` `10.2` (APKS split bundle).
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/Adish08/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+<details open>
+<summary>📦 Jain Panchang&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
 
-<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release.
+**🎯 Supported versions:**
 
-     If you wish for the patches list to be collapsed, then remove the word 'EXPANDED' from the comment tag above.
+| 10.2 |
+| :---: |
 
-     If you wish to manually keep this list updated then remove the PATCHES_START and PATCHES_END
-     comment blocks entirely. -->
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Premium unlock](#premium-unlock) | Unlocks premium features by faking active subscriptions and purchases. |  |
+| [Remove ads](#remove-ads) | Disables banner, interstitial, rewarded, app open, and native ads. |  |
 
-#### A list of your patches will automatically be shown here after your first patches release is created.
-
-&nbsp;
+</details>
 
 <!-- PATCHES_END -->
 
